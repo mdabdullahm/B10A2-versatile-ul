@@ -1,0 +1,154 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 1010px;
+    color: seashell;
+    height: 57px;
+    margin-left: 190px;
+}
+.contol{
+    background-color: rgba(17,17,17,1);
+    width: 1440px;
+    height: 715px;
+    margin: auto;
+}
+.navitamm{
+    list-style: none;
+    display: flex;
+    margin-top: 27px;
+    font-size: 18px;
+    width: 1,060px;
+    height: 46px;
+    margin-top: 57px;
+}
+.nav-link{
+    margin-right:30px;
+    text-decoration: none;
+    color: aliceblue;
+    gap: 10px;
+}
+.gray{
+    background-color: coral;
+    margin-right: 47px;
+    border-radius: 46px;
+    width: 92px;
+}
+.brand{
+    color: red;
+    margin-top: 57px;
+    margin-left: 190px;
+    font-size: 36px;
+}
+.relat{
+    color: aliceblue;
+    font-size: 78px;
+    font-weight: 900;
+    height: 282px;
+    width: 520px;
+}
+.hiddin{
+    color: aliceblue;
+    width: 520px;
+    height: 48px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.fit{
+    width: 599.05;
+    height: 440px;
+    margin-left: 360px;
+    gap: 71px;
+}
+
+.marka{
+    position: relative;
+    bottom: 50px;
+}
+
+.btn{
+    width: 224px;
+    height: 54px;
+    font-weight: 600;
+    background-color: rgb(230,83,60,1);
+    border-radius: 42px;
+    font-size: 18px;
+}
+.btn2{
+    width: 224px;
+    height: 54px;
+    font-size: 18px;
+    border:1px solid rgb(237, 229, 229);
+    background-color: rgb(20, 18, 18);
+    color: aliceblue;
+    border-radius: 42px;
+}
+
+.btn-primary{
+    width: 160px;
+    height: 70px;
+    background-color: rgba(48,48,48,0.54);
+    border-radius: 12px;
+    border: 1px solid rgb(234, 226, 226);
+    position: relative;
+    bottom: 87px;
+    left: 520px;
+}
+.net{
+    color: aliceblue;
+}
+
+#experience-dadge{
+    font-size:19px;
+    color: aliceblue;
+    margin-right: 40px;
+}
+.boll{
+    height: 30px;
+    width: 30px;
+    border-radius: 90%;
+    background-color: red;
+    position: relative;
+    top: 16px;
+    left: 10px;
+}
+.rot{
+    position: relative;
+    left: 20px;
+    bottom: 18px;
+}
+.chu{
+    position: relative;
+    right: 10px;
+    bottom: 40px;
+}
+.from{
+    color: aliceblue;
+    font-size: 25px;
+    position: relative;
+    right: 20px;
+}
+
+.will{
+    color: azure;
+    font-size: 10px;
+}
+.sleep{
+    background-color: rgba(48,48,48,0.54);
+    width: 153px;
+    height: 90px;
+    border: 1px solid chartreuse;
+    border-radius: 12px;
+}
+
+.work{
+    position: relative;
+    left: 1107px;
+    bottom: 350px;
+}
+
+.need{
+    position: relative;
+    left: 877px;
+    bottom: 535px;
+}
