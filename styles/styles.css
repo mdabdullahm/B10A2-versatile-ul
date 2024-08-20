@@ -152,3 +152,134 @@
     left: 877px;
     bottom: 535px;
 }
+
+.keep{
+    background-color: black;
+    width: 1440px;
+    height: 4650px;
+    position: relative;
+    bottom: 35px;
+    margin: auto;
+    
+}
+
+.namm{
+    position: relative;
+    right: 250px;
+}
+
+.are{
+   text-align: center
+}
+
+.son{
+    color: aliceblue;
+    font-size: 40px;
+    position: relative;
+    left: 0px;
+}
+.sone-2{
+    color: aliceblue;
+    font-size: 14px;
+    position: relative;
+    bottom: 30px;
+}
+.her{
+    margin-left: 0px;
+}
+
+.wer{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    left: 550px;
+}
+.ress-1{
+    border: 4px solid rgb(26, 23, 23);
+    border-radius: 100px;
+}
+.ress-2{
+    border: 4px solid rgb(20, 16, 16);
+    border-radius: 100px;
+}
+.ress-3{
+    border: 4px solid rgb(15, 14, 14);
+    border-radius: 100px;
+}
+.ress-4{
+    border: 4px solid rgb(16, 15, 15);
+    border-radius: 100px;
+}
+
+.mil{
+    position: relative;
+    left: 20px;
+}
+.mil-3{
+    color: aliceblue;
+    position: relative;
+    left: 40px;
+}
+.mil-1{
+    color: aliceblue;
+    position: relative;
+    bottom: 19px;
+}
+
+.mil-4{
+    position: relative;
+    left: 560px;
+}
+
+.max{
+    position: relative;
+    left: 16px;
+}
+.max-1{
+    color: aliceblue;
+    position: relative;
+    left: 78px;
+}
+.max-2{
+    color: aliceblue;
+    position: relative;
+    bottom: 20px;
+}
+.max-3{
+    position: relative;
+    left: 770px;
+    bottom: 95px;
+}
+
+.ass{
+    position: relative;
+    left: 20px;
+}
+.ass-1{
+    position: relative;
+    left: 60px;
+    top: 20px;
+}
+.ass-2{
+    color: aliceblue;
+    position: relative;
+    left: 990px;
+    bottom: 210px;
+}
+.ver{
+    position: relative;
+    left: 20px;
+}
+.ver-1{
+    color: aliceblue;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+.ver-2{
+    color: aliceblue;
+    position: relative;
+    left: 1200px;
+    bottom: 305px;
+    /* color: aliceblue; */
+}
